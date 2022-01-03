@@ -5,9 +5,9 @@
     <Copyright>Copyright © Silver Bilgi Teknolojileri, Ltd</Copyright>
     <Company>Silver Bilgi Teknolojileri, Ltd</Company>
     <Authors>Silver Bilgi Teknolojileri, Ltd</Authors>
-    <PackageLicenseUrl>https://github.com/GokhanSevim/Nop.Plugin.DiscountRules.HasCategory/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/GokhanSevim/Nop.Plugin.DiscountRules.HasCategory-v4.30/blob/main/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://www.nopcommerce.com/discount-by-category</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/GokhanSevim/Nop.Plugin.DiscountRules.HasCategory</RepositoryUrl>
+    <RepositoryUrl>https://github.com/GokhanSevim/Nop.Plugin.DiscountRules.HasCategory-v4.30</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <OutputPath>..\..\Presentation\Nop.Web\Plugins\DiscountRules.HasCategory</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
